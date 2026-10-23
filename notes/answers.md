@@ -1,0 +1,1 @@
+`sudo apt update` downloads the latest information about available packages. It does not install or upgrade any software. `sudo apt upgrade` installs newer versions of packages that are already installed on the system. We should run `sudo apt update` before `sudo apt upgrade` or installing a package.
